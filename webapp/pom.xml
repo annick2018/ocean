@@ -5,12 +5,12 @@
 
   <parent>
     <groupId>com.example.maven-project</groupId>
-    <artifactId>ocean</artifactId>
+    <artifactId>maven-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>webapp</artifactId>
+  <artifactId>ocean</artifactId>
   <packaging>war</packaging>
   <name>Webapp</name>
   <description>Webapp.</description>
